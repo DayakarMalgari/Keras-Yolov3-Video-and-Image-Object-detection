@@ -8,3 +8,6 @@ FasterRCNN detected more objects than YoloV3 on the same image and same confiden
 On the enclosed image FasterRCNN detected 94 objects at 25% confidence, where as YoloV3 detected
 
 69 objects at 20% confidence.
+
+
+Both have some false/incorrect detection/labeling problem
